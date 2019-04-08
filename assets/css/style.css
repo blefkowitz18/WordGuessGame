@@ -1,0 +1,22 @@
+.heading {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+.body {
+    background-color: blue;
+}
+
+.picture {
+    border: 1px solid black;
+    float: left;
+    width: 50%;
+}
+
+.game {
+    border: 1px solid black;
+    background: red;
+    float: right;
+    width: 48%;
+    color: blue;
+}
